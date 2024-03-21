@@ -12,7 +12,7 @@ export default function Story() {
         <p>
           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ut
           repudiandae ab mollitia eius, atque architecto cupiditate? Minima
-          totam
+          totam.
         </p>
       </div>
     </article>
